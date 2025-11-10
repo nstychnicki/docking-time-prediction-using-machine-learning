@@ -1,0 +1,44 @@
+feature,importance
+FlagCabotagem,3.5453134317275934
+FlagCabotagemMovimentacao,2.020272389732686
+FlagConteinerTamanho,-2.074695428743374
+FlagLongoCurso,-3.6421732356459997
+FlagTransporteViaInterioir,6.4101825805224575
+TEU,2.2763820791271714
+QTCarga,-1.5957539116905493
+VLPesoCargaBruta,0.3779399769967995
+Nacionalidade_do_Armador,11.660535474776355
+TAtracado,17.104484786073414
+Tipo_Operação_da_Carga_Baldeação de Carga Estrangeira de Passagem,0.6502581543298047
+Tipo_Operação_da_Carga_Baldeação de Carga Nacional,-1.3500456846111497
+Tipo_Operação_da_Carga_Cabotagem,-3.8300356041710186
+Tipo_Operação_da_Carga_Interior,-2.0202335588603657
+Tipo_Operação_da_Carga_Longo Curso Exportação,2.7482499497757726
+Tipo_Operação_da_Carga_Longo Curso Exportação com Baldeação de Carga Estrangeira,-5.387026020303992
+Tipo_Operação_da_Carga_Longo Curso Importação,6.954306310762931
+Tipo_Operação_da_Carga_Longo Curso Importação com Baldeação de Carga Estrangeira,-4.824156443664461
+ConteinerEstado_Cheio,0.4187244585233545
+ConteinerEstado_Vazio,-0.41872445852334567
+Tipo_Navegação_Apoio Portuário,-6.661338147750939e-16
+Tipo_Navegação_Cabotagem,2.0202723897326655
+Tipo_Navegação_Interior,4.353319443110726
+Tipo_Navegação_Longo Curso,-3.6421732356459726
+STNaturezaCarga_Compartilhado,0.737468392035974
+STNaturezaCarga_Exclusivo,-0.7374683920359705
+STSH2_Compartilhado,0.7374683920359723
+STSH2_Exclusivo,-0.7374683920359714
+STSH4_Compartilhado,0.7374683920359714
+STSH4_Exclusivo,-0.7374683920359714
+Sentido_Desembarcados,-1.938389327256849
+Sentido_Embarcados,1.9383893272568486
+Tipo_da_Autoridade_Portuária_Porto Organizado,-1.2075452739070902
+Tipo_da_Autoridade_Portuária_Terminal Autorizado,1.2075452739070924
+Tipo_de_Navegação_da_Atracação_Cabotagem,-2.071937315262262
+Tipo_de_Navegação_da_Atracação_Interior,4.139115351321042
+Tipo_de_Navegação_da_Atracação_Longo Curso,0.418060493929492
+Região_Geográfica_Nordeste,0.6491337142915867
+Região_Geográfica_Norte,-14.641055102282989
+Região_Geográfica_Sudeste,0.35810976508379977
+Região_Geográfica_Sul,7.5220486671394795
+Instalação_Portuária_em_Rio_Não,-0.8506612670316991
+Instalação_Portuária_em_Rio_Sim,0.8506612670316991
